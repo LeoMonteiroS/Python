@@ -40,3 +40,5 @@ def login():
             print("Email ou senha invalido")
             print("-"*15)
 login()
+
+print("Bem Vindo")
